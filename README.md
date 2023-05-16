@@ -3,8 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Aditya Kumar Singh.<br>
-        I'm Software Intern at Knoldus Software LLP Part of Nash Tech
+        I'm Software Intern at Knoldus Software LLP Part of Nash Tech.<br>
         Currently learning to walk in Test Automation without falling on my bottom.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/adii-mca">
