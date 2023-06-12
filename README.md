@@ -47,3 +47,5 @@
   <img src="https://visitcount.itsvg.in/api?id=Adii-knolder&label=Profile%20Views&color=12&icon=9&pretty=true" />
 </a>
 </p>
+</br>
+<p align="center"><a href="https://github.com/nastyox/Repo-Roster#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
