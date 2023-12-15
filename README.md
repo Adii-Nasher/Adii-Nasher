@@ -15,11 +15,11 @@
 
  <h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adii-mca/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adii-nasher/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> &nbsp;
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Adii-knolder">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Adii-Nasher">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> &nbsp;
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21741258/adii-knolder?tab=profile">
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21741258/adii-nasher?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
       </div>
       
@@ -28,12 +28,12 @@
 ##  **Github Stats** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adii-knolder&show_icons=true&theme=great-gatsby" alt="Aditya's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adii-Nasher&show_icons=true&theme=great-gatsby" alt="Aditya's GitHub stats">
 </p>
 
 <p align="left">
-  <a href="https://github.com/Adii-knolder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adii-knolder&theme=great-gatsby" />
+  <a href="https://github.com/Adii-Nasher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adii-Nasher&theme=great-gatsby" />
 </a>
 </p>
 
@@ -44,8 +44,8 @@
 
 <p align="center">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Adii-knolder&label=Profile%20Views&color=12&icon=9&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Adii-Nasher&label=Profile%20Views&color=12&icon=9&pretty=true" />
 </a>
 </p>
 </br>
-<p align="center"><a href="https://github.com/Adii-knolder#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/Adii-Nasher#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
