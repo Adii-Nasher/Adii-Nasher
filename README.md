@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-***I'm working as a Test Automation Intern at Knoldus Part of NashTech***
+***I'm working as a Software Consultant at Knoldus Part of NashTech***
 
 
 <br>
